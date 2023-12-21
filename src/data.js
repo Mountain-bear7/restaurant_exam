@@ -50,7 +50,7 @@ export const aboutData = {
   pretitle: 'our story',
   title: 'who we are',
   subtitle:
-    'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet consequatur, quasi minima molestiae ex exercitationem culpa quisquam architecto quaerat, iusto dolores labore, sapiente magni rem commodi aperiam ad dolorem neque ducimus. Placeat vel non quod quis pariatur a aperiam, aliquam adipisci voluptatum voluptatem sit cupiditate dolore natus beatae earum omnis.',
+    'We are Bistro Cafe, a place where every lunch, dinner or just a cup of coffee turns into a real ritual of pleasure. Our restaurant is not just a place where food is served. We are a team of enthusiasts united by a love for gourmet cooking and the art of creating coziness. Here we strive not only to please you with delicious dishes, but also to create an atmosphere of true comfort and cordiality',
   btnText: 'find out more',
   image: AboutImg,
 };
