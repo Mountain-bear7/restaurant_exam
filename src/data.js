@@ -91,9 +91,9 @@ export const menuData = {
 export const teamData = {
   pretitle: 'our team',
   title: 'meet our chef',
-  sub1: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci repudiandae enim ratione corrupti voluptatum suscipit distinctio dolor.',
-  sub2: 'Sequi exercitationem quae deserunt reiciendis nesciunt perferendis atque quisquam, odit facere! Minima esse reiciendis, magnam fugiat totam maxime consequatur perspiciatis voluptas consequuntur.',
-  name: 'sara peter',
+  sub1: 'David Smith is our Executive Chef, a passionate and talented culinary artist with over 20 years of experience in the restaurant industry. He is a graduate of the Culinary Institute of America and has worked in some of the finest restaurants in the world, including The French Laundry, Per Se, and Eleven Madison Park.',
+  sub2: 'David is known for his innovative and creative approach to cooking. He is always looking for new and exciting ways to combine flavors and textures. His dishes are both visually stunning and flavorful, and they always leave a lasting impression.',
+  name: 'david smith',
   occupation: 'executive chef',
   signatureImg: SignatureImg,
   chefImg: ChefImg,
